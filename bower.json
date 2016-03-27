@@ -1,0 +1,30 @@
+{
+  "name": "react-dynamojs",
+  "version": "0.0.0",
+  "description": "react-dynamojs",
+  "main": "dist/react-dynamojs.min.js",
+  "homepage": "https://github.com/rhoffmann8/react-dynamojs",
+  "authors": [
+    "Rob Hoffmann"
+  ],
+  "moduleType": [
+    "amd",
+    "globals",
+    "node"
+  ],
+  "keywords": [
+    "react",
+    "react-component",
+    "react-dynamojs"
+  ],
+  "license": "MIT",
+  "ignore": [
+    ".editorconfig",
+    ".gitignore",
+    "package.json",
+    "src",
+    "node_modules",
+    "example",
+    "test"
+  ]
+}
